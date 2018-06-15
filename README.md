@@ -2,7 +2,7 @@
 
 Instructor: Vincent Trivett
 
-Date: 16 April, 2018
+Date: 25 June, 2018
 
 -------
 
